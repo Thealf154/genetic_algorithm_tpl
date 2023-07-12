@@ -15,4 +15,4 @@ The problem solves a classic Travelling Salesman Problem using a matrix of point
 # Performance
 
 The performance is measured in loop cycles, (THIS IS WITHOUT ANY MUTATION PERCENTAGE LIMIT):
-![Performance of mutation operators](/graph_performance.png)
+![Performance of mutation operators](/graph_performance_km.png)
