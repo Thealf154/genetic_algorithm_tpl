@@ -4,10 +4,15 @@ Implementation of all mutation operators mentionated in the **Combined Mutation 
 
 The problem solves a classic Travelling Salesman Problem using a matrix of points in a city. The code is in the `genetic_algoritm.*`,  the `.py` file is only there for debugging pourposes.
 
-# Mutation operators:
+# Mutation operators
 - Inversion
 - Displacement
 - Exchange
 - Insertion
 - Inverted exchange
 - Inverted displacement
+
+# Performance
+
+The performance is measured in loop cycles, (THIS IS WITHOUT ANY MUTATION PERCENTAGE LIMIT):
+![Performance of mutation operators](/graph_performance.png)
